@@ -1,0 +1,46 @@
+{
+    "name": "StudentConnect",
+    "short_name": "StudentConnect",
+    "description": "Verified multi-campus student intranet - carpool, notes, tutoring, and more",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait-primary",
+    "background_color": "#ffffff",
+    "theme_color": "#0071e3",
+    "categories": [
+        "education",
+        "social",
+        "productivity"
+    ],
+    "icons": [
+        {
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/screenshot-desktop.png",
+            "sizes": "1280x720",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "StudentConnect on desktop - carpool, notes, and campus services"
+        },
+        {
+            "src": "/screenshot-mobile.png",
+            "sizes": "720x1280",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "StudentConnect on mobile - study groups and tutoring"
+        }
+    ]
+}
